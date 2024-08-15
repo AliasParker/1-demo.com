@@ -1,1 +1,0 @@
-// This is the initial content of generated_code.js
